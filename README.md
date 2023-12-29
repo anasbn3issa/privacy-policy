@@ -7,6 +7,4 @@ Our app collects and uses device information, including a unique device identifi
 The collected device information is used for storing your entered data in a unique collection in firebase. We do not sell or share this information with third parties.
 #### User Control
 
-Users have the option to demand to the developer to change the way their data is stored. For more information or to request the deletion of your device information, please contact anasben3issa@gmail.com.
-
-For further details, please review our full Privacy Policy.
+Users have the option to request changing the way their data is being stored. For more information or to request the deletion of your device information, please contact anasben3issa@gmail.com.
